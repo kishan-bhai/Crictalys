@@ -1,0 +1,49 @@
+Match Number,Round Number,Date,Location,Home Team,Away Team
+1,1,30-05-2019,The Oval,England,South Africa
+2,1,31-05-2019,Trent Bridge,West indies,Pakistan
+3,1,01-06-2019,Cardiff Wales Stadium,New Zealand,Sri Lanka
+4,1,01-06-2019,Bristol County Ground,Afghanistan,Australia
+5,1,02-06-2019,The Oval,South Africa,Bangladesh
+6,1,03-06-2019,Trent Bridge,England,Pakistan
+7,1,04-06-2019,Cardiff Wales Stadium,Afghanistan,Sri Lanka
+8,1,05-06-2019,The Ageas Bowl,South Africa,India
+9,1,05-06-2019,The Oval,Bangladesh,New Zealand
+10,1,06-06-2019,Trent Bridge,Australia,West indies
+11,2,07-06-2019,Bristol County Ground,Pakistan,Sri Lanka
+12,2,08-06-2019,Cardiff Wales Stadium,England,Bangladesh
+13,2,08-06-2019,The County Ground,Afghanistan,New Zealand
+14,2,09-06-2019,The Oval,India,Australia
+15,2,10-06-2019,The Ageas Bowl,South Africa,West indies
+16,2,11-06-2019,Bristol County Ground,Bangladesh,Sri Lanka
+17,2,12-06-2019,The County Ground,Australia,Pakistan
+18,2,13-06-2019,Trent Bridge,India,New Zealand
+19,3,14-06-2019,The Ageas Bowl,England,West indies
+20,3,15-06-2019,The Oval,Sri Lanka,Australia
+21,3,15-06-2019,Cardiff Wales Stadium,South Africa,Afghanistan
+22,3,16-06-2019,Old Trafford,India,Pakistan
+23,3,17-06-2019,The County Ground,West indies,Bangladesh
+24,3,18-06-2019,Old Trafford,England,Afghanistan
+25,3,19-06-2019,Edgbaston,New Zealand,South Africa
+26,3,20-06-2019,Trent Bridge,Australia,Bangladesh
+27,4,21-06-2019,Headingley,England,Sri Lanka
+28,4,22-06-2019,The Ageas Bowl,India,Afghanistan
+29,4,22-06-2019,Old Trafford,West indies,New Zealand
+30,4,23-06-2019,Lord's,Pakistan,South Africa
+31,4,24-06-2019,The Ageas Bowl,Bangladesh,Afghanistan
+32,4,25-06-2019,Lord's,England,Australia
+33,4,26-06-2019,Edgbaston,New Zealand,Pakistan
+34,4,27-06-2019,Old Trafford,West indies,India
+35,5,28-06-2019,Emirates Riverside,Sri Lanka,South Africa
+36,5,29-06-2019,Headingley,Pakistan,Afghanistan
+37,5,29-06-2019,Lord's,New Zealand,Australia
+38,5,30-06-2019,Edgbaston,England,India
+39,5,01-07-2019,Emirates Riverside,Sri Lanka,West indies
+40,5,02-07-2019,Edgbaston,Bangladesh,India
+41,5,03-07-2019,Emirates Riverside,England,New Zealand
+42,5,04-07-2019,Headingley,Afghanistan,West indies
+43,5,05-07-2019,Lord's,Pakistan,Bangladesh
+44,5,06-07-2019,Headingley,Sri Lanka,India
+45,5,06-07-2019,Old Trafford,Australia,South Africa
+46,6,09-07-2019,Old Trafford,India,New Zealand
+47,6,11-07-2019,Edgbaston,Australia,England
+48,7,14-07-2019,Lord's,New Zealand,England
